@@ -14,7 +14,7 @@ I'm primarily a Java developer but am always expanding my toolkit. Here's a few 
 
 You can see the development process of a live drawbridge status app that I'm working on on the [software tab of my portfolio website](https://alexcoover.wixsite.com/website/software).
 
-Please feel free to reach out about anything [via email](alexcoover@live.com)!
+Please feel free to reach out about anything [via email](mailto:alexcoover@live.com)!
 
 <!---
 alexcoover/alexcoover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
